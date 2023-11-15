@@ -1,0 +1,26 @@
+_repo: Op-die-delwerye-b-Vyf-sketse-uit-die-lewe_72114
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoogenhout, Imker
+    gutenberg_agent_id: '56542'
+    url: http://www.gutenberg.org/2009/agents/56542
+description: ''
+gutenberg_issued: '2023-11-13'
+identifiers:
+  gutenberg: '72114'
+language: af
+pgterms:marc904: https://archive.org/details/hoogenhoutdelwerye
+pgterms:marc905: 20220810053453hoogenhout
+pgterms:marc906: 1925?
+pgterms:marc907: za
+production_note: Kobus Meyer, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aCape Town :$bMaskew Miller, $c1925?.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Op die delwerye : $b Vyf sketse uit die lewe'
+url: http://www.gutenberg.org/ebooks/72114
